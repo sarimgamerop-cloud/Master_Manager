@@ -49,8 +49,8 @@ Use **Google AppPasswords** for App Password : https://myaccount.google.com/appp
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/MasterManager.git
-cd MasterManager
+git clone https://github.com/sarimgamerop-cloud/Master_Manager.git
+cd Master_Manager
 ```
 
 ### 3. Install Dependencies

@@ -14,8 +14,12 @@ Get an instant overview of your financial health. The dashboard shows your total
 ### 🎙️ Voice-Assisted Entry (Dictate Price)
 Hands-free amount entry. Simply click the microphone icon next to the Amount field and say your price (e.g., "Fifty dollars and twenty cents"). The app extracts the numeric value automatically.
 
+**NOTE**
+
+``This feature is only experimental and should not be relied on it , it should not work in some cases``
+
 ### 🤖 Gemini AI Assistant
-Ask questions about your spending patterns in natural language. Gemini analyzes your monthly, yearly, and category-wise data to give you personalized financial advice.
+Ask questions about your spending patterns in natural language. Gemini analyzes your monthly, yearly, and category-wise data to give you personalized financial advice. **Requires free API key**.
 
 ### 🔍 Advanced Search & Filtering
 Easily navigate thousands of transactions. Filter by category or use the live search bar to find specific descriptions instantly.
@@ -24,9 +28,11 @@ Easily navigate thousands of transactions. Filter by category or use the live se
 Visualize your habits with built-in:
 - **Bar Charts:** Breakdown of spending by category.
 - **Line Charts:** Monthly trend analysis to see how your spending evolves over time.
+- **Using simple tools not hefty libraries.**
 
 ### ☁️ Free Cloud Backup
 Never lose your data. Securely send a backup of your entire database directly to your Gmail inbox with one click.
+Use **Google AppPasswords** for App Password : https://myaccount.google.com/apppasswords
 
 ### 🛠️ Personalization
 - **Custom Branding:** Upload your own logo for a personalized dashboard.

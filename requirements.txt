@@ -1,0 +1,7 @@
+PyQt5==5.15.11
+PyQtWebEngine==5.15.7
+qtawesome==1.4.0
+google-generativeai==0.8.6
+markdown-it-py==3.0.0
+SpeechRecognition==3.14.5
+PyAudio==0.2.14

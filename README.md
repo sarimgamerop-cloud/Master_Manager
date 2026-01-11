@@ -2,10 +2,7 @@
 
 Master Manager is a modern, professional desktop application for managing personal finances. Built with **Python** and **PyQt5**, it combines robust tracking tools with **Google Gemini AI** to provide insights and a hands-free voice experience.
 
-### Dashboard Preview
-<img width="1041" height="797" alt="dash" src="https://github.com/user-attachments/assets/d13c116f-05d0-496e-b10d-2c2aea559508" />
-
-
+![Dashboard Preview](https://via.placeholder.com/800x450.png?text=Master+Manager+Dashboard)
 
 ## 🚀 Features
 
@@ -14,10 +11,6 @@ Get an instant overview of your financial health. The dashboard shows your total
 
 ### 🎙️ Voice-Assisted Entry (Dictate Price)
 Hands-free amount entry. Simply click the microphone icon next to the Amount field and say your price (e.g., "Fifty dollars and twenty cents"). The app extracts the numeric value automatically.
-
-**NOTE**:
-        
-        ( *This feature is still in Development and is experimental , reliance on the feature is not recommended and should not work in some cases.* )
 
 ### 🤖 Gemini AI Assistant
 Ask questions about your spending patterns in natural language. Gemini analyzes your monthly, yearly, and category-wise data to give you personalized financial advice.
@@ -32,7 +25,6 @@ Visualize your habits with built-in:
 
 ### ☁️ Free Cloud Backup
 Never lose your data. Securely send a backup of your entire database directly to your Gmail inbox with one click.
-Use the Google Password for the **App Password**: https://myaccount.google.com/apppasswords
 
 ### 🛠️ Personalization
 - **Custom Branding:** Upload your own logo for a personalized dashboard.
@@ -44,7 +36,7 @@ Use the Google Password for the **App Password**: https://myaccount.google.com/a
 ## 🛠️ Installation
 
 ### 1. Prerequisites
-- **Python 3.8+** ( Python 3.14.0 **Recommended** )
+- **Python 3.8+**
 - **Microphone** (for voice dictation)
 
 ### 2. Clone the Repository

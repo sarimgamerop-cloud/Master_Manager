@@ -12,6 +12,10 @@ Get an instant overview of your financial health. The dashboard shows your total
 ### 🎙️ Voice-Assisted Entry (Dictate Price)
 Hands-free amount entry. Simply click the microphone icon next to the Amount field and say your price (e.g., "Fifty dollars and twenty cents"). The app extracts the numeric value automatically.
 
+**NOTE**:
+        
+        ( *This feature is still in Development and is experimental , reliance on the feature is not recommended and should not work in some cases.* )
+
 ### 🤖 Gemini AI Assistant
 Ask questions about your spending patterns in natural language. Gemini analyzes your monthly, yearly, and category-wise data to give you personalized financial advice.
 
@@ -25,6 +29,7 @@ Visualize your habits with built-in:
 
 ### ☁️ Free Cloud Backup
 Never lose your data. Securely send a backup of your entire database directly to your Gmail inbox with one click.
+Use the Google Password for the **App Password**: https://myaccount.google.com/apppasswords
 
 ### 🛠️ Personalization
 - **Custom Branding:** Upload your own logo for a personalized dashboard.
@@ -36,7 +41,7 @@ Never lose your data. Securely send a backup of your entire database directly to
 ## 🛠️ Installation
 
 ### 1. Prerequisites
-- **Python 3.8+**
+- **Python 3.8+** ( Python 3.14.0 **Recommended** )
 - **Microphone** (for voice dictation)
 
 ### 2. Clone the Repository

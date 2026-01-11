@@ -2,7 +2,7 @@
 
 Master Manager is a modern, professional desktop application for managing personal finances. Built with **Python** and **PyQt5**, it combines robust tracking tools with **Google Gemini AI** to provide insights and a hands-free voice experience.
 
-![Dashboard Preview](https://via.placeholder.com/800x450.png?text=Master+Manager+Dashboard)
+![Dashboard Preview](https://collection.cloudinary.com/dwrpqeiwd/41e6b0ef795c3dca58971621603eda80)
 
 ## 🚀 Features
 
